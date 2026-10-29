@@ -2,7 +2,7 @@
 # This will allow you to replace the IMEI in any QCN file with whatever you want
 # I have no idea how ot find IMEI2? but i assume its a string as well
 # If you can make this better? Please shoot a pull request
-# By: rhcp011235 (rhcp011235)
+# By: rhcp011235
 
 replacer = True #to toggle the replace thing on and off
 def imiefy(foundhex):
